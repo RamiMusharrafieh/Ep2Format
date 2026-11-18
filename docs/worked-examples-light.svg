@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 968 484" width="968" height="484" role="img" aria-label="Seven epitopes taken from solved complexes and scored as if the antibody were unknown; all seven match the format actually used.">
+<text x="48.0" y="34.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="600" fill="#0b0b0b">Seven epitopes, scored as if the antibody were unknown</text>
+<text x="48.0" y="54.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="400" fill="#52514e">Real sites from solved complexes. The rightmost column is the format that was actually used.</text>
+<text x="384.0" y="88.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="400" fill="#D55E00">conventional</text>
+<text x="652.0" y="88.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="400" fill="#0072B2" text-anchor="end">single-domain</text>
+<line x1="518.0" y1="94" x2="518.0" y2="422" stroke="#b9b6ad" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="48.0" y="120.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b">β2-adrenergic receptor</text>
+<text x="48.0" y="134.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="400" fill="#52514e">3P0G · Nb80 intracellular cavity</text>
+<rect x="384" y="110" width="268" height="13" rx="2" fill="#e6e4dd"/>
+<rect x="384" y="110" width="268.0" height="13" rx="2" fill="#0072B2"/>
+<text x="664.0" y="121.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" font-weight="600" fill="#0072B2">1.00</text>
+<text x="706.0" y="121.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">pocket</text>
+<text x="784.0" y="121.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">8.2 Å</text>
+<text x="920.0" y="121.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#0072B2" text-anchor="end">VHH ✓</text>
+<text x="48.0" y="166.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b">β2-adrenergic receptor</text>
+<text x="48.0" y="180.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="400" fill="#52514e">P07550 · same site, AlphaFold model</text>
+<rect x="384" y="156" width="268" height="13" rx="2" fill="#e6e4dd"/>
+<rect x="384" y="156" width="224.0" height="13" rx="2" fill="#0072B2"/>
+<text x="664.0" y="167.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" font-weight="600" fill="#0072B2">0.84</text>
+<text x="706.0" y="167.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">pocket</text>
+<text x="784.0" y="167.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">9.1 Å</text>
+<text x="920.0" y="167.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#0072B2" text-anchor="end">VHH ✓</text>
+<text x="706.0" y="180.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" font-weight="400" fill="#52514e">from AlphaFold model</text>
+<text x="48.0" y="212.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b">Cadherin peptide tag</text>
+<text x="48.0" y="226.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="400" fill="#52514e">5IVN · BC2 nanobody site</text>
+<rect x="384" y="202" width="268" height="13" rx="2" fill="#e6e4dd"/>
+<rect x="384" y="202" width="140.6" height="13" rx="2" fill="#0072B2"/>
+<text x="664.0" y="213.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" font-weight="600" fill="#0072B2">0.52</text>
+<text x="706.0" y="213.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">flat</text>
+<text x="784.0" y="213.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">1.4 Å</text>
+<text x="920.0" y="213.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#0072B2" text-anchor="end">VHH ✓</text>
+<text x="48.0" y="258.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b">Hen egg lysozyme</text>
+<text x="48.0" y="272.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="400" fill="#52514e">1FDL · D1.3 epitope</text>
+<rect x="384" y="248" width="268" height="13" rx="2" fill="#e6e4dd"/>
+<rect x="384" y="248" width="11.6" height="13" rx="2" fill="#D55E00"/>
+<text x="664.0" y="259.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" font-weight="600" fill="#D55E00">0.04</text>
+<text x="706.0" y="259.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">flat</text>
+<text x="784.0" y="259.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">2.8 Å</text>
+<text x="920.0" y="259.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#D55E00" text-anchor="end">Fab ✓</text>
+<text x="48.0" y="304.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b">SARS-CoV-2 spike RBD</text>
+<text x="48.0" y="318.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="400" fill="#52514e">6M0J · ACE2-binding site</text>
+<rect x="384" y="294" width="268" height="13" rx="2" fill="#e6e4dd"/>
+<rect x="384" y="294" width="32.9" height="13" rx="2" fill="#D55E00"/>
+<text x="664.0" y="305.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" font-weight="600" fill="#D55E00">0.12</text>
+<text x="706.0" y="305.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">cleft</text>
+<text x="784.0" y="305.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">4.7 Å</text>
+<text x="920.0" y="305.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#D55E00" text-anchor="end">Fab ✓</text>
+<text x="48.0" y="350.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b">Influenza haemagglutinin</text>
+<text x="48.0" y="364.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="400" fill="#52514e">3GBN · F10 stem site</text>
+<rect x="384" y="340" width="268" height="13" rx="2" fill="#e6e4dd"/>
+<rect x="384" y="340" width="17.9" height="13" rx="2" fill="#D55E00"/>
+<text x="664.0" y="351.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" font-weight="600" fill="#D55E00">0.07</text>
+<text x="706.0" y="351.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">groove</text>
+<text x="784.0" y="351.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">10.2 Å</text>
+<text x="920.0" y="351.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#D55E00" text-anchor="end">Fab ✓</text>
+<text x="48.0" y="396.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b">HER2</text>
+<text x="48.0" y="410.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="400" fill="#52514e">1N8Z · trastuzumab site</text>
+<rect x="384" y="386" width="268" height="13" rx="2" fill="#e6e4dd"/>
+<rect x="384" y="386" width="32.9" height="13" rx="2" fill="#D55E00"/>
+<text x="664.0" y="397.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" font-weight="600" fill="#D55E00">0.12</text>
+<text x="706.0" y="397.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">cleft</text>
+<text x="784.0" y="397.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e">6.4 Å</text>
+<text x="920.0" y="397.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#D55E00" text-anchor="end">Fab ✓</text>
+<line x1="48" y1="440" x2="920" y2="440" stroke="#dedcd5" stroke-width="1"/>
+<text x="48.0" y="458.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="400" fill="#52514e">All seven agree with the format actually used, including the β2-adrenergic receptor scored from its AlphaFold model rather than its crystal structure.</text>
+</svg>

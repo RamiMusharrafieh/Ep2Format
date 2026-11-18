@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 452" width="760" height="452" role="img" aria-label="AUC of ESM-2 embeddings by hidden layer, for a linear head and an MLP head, against the geometry benchmark of 0.798.">
+<text x="48.0" y="34.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="600" fill="#0b0b0b">Which ESM-2 layer, and does the head matter?</text>
+<text x="48.0" y="54.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="400" fill="#52514e">Single-domain vs conventional, antigen-clustered cross-validation.</text>
+<line x1="92" y1="317.1" x2="550" y2="317.1" stroke="#e6e4dd" stroke-width="1"/>
+<text x="82.0" y="321.1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e" text-anchor="end">0.65</text>
+<line x1="92" y1="245.6" x2="550" y2="245.6" stroke="#e6e4dd" stroke-width="1"/>
+<text x="82.0" y="249.6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e" text-anchor="end">0.70</text>
+<line x1="92" y1="174.1" x2="550" y2="174.1" stroke="#e6e4dd" stroke-width="1"/>
+<text x="82.0" y="178.1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e" text-anchor="end">0.75</text>
+<line x1="92" y1="102.6" x2="550" y2="102.6" stroke="#e6e4dd" stroke-width="1"/>
+<text x="82.0" y="106.6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="400" fill="#52514e" text-anchor="end">0.80</text>
+<line x1="92" y1="105.5" x2="550" y2="105.5" stroke="#0b0b0b" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="560.0" y="109.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#0b0b0b">geometry alone  0.798</text>
+<path d="M92.0 191.3L206.5 171.2L321.0 208.4L435.5 205.6L550.0 175.5" fill="none" stroke="#0072B2" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="92.0" cy="191.3" r="4.5" fill="#0072B2" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="206.5" cy="171.2" r="4.5" fill="#0072B2" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="321.0" cy="208.4" r="4.5" fill="#0072B2" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="435.5" cy="205.6" r="4.5" fill="#0072B2" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="550.0" cy="175.5" r="4.5" fill="#0072B2" stroke="#ffffff" stroke-width="1.5"/>
+<text x="560.0" y="179.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="400" fill="#0072B2">MLP head</text>
+<path d="M92.0 258.5L206.5 302.8L321.0 325.7L435.5 285.6L550.0 249.9" fill="none" stroke="#D55E00" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="92.0" cy="258.5" r="4.5" fill="#D55E00" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="206.5" cy="302.8" r="4.5" fill="#D55E00" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="321.0" cy="325.7" r="4.5" fill="#D55E00" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="435.5" cy="285.6" r="4.5" fill="#D55E00" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="550.0" cy="249.9" r="4.5" fill="#D55E00" stroke="#ffffff" stroke-width="1.5"/>
+<text x="560.0" y="253.9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="400" fill="#D55E00">linear head</text>
+<text x="92.0" y="382.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle">L6</text>
+<text x="206.5" y="382.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle">L12</text>
+<text x="321.0" y="382.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle">L18</text>
+<text x="435.5" y="382.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle">L24</text>
+<text x="550.0" y="382.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle">L33</text>
+<circle cx="206.5" cy="171.2" r="8.5" fill="none" stroke="#0072B2" stroke-width="1.4"/>
+<text x="206.5" y="155.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="600" fill="#0072B2" text-anchor="middle">chosen</text>
+<text x="321.0" y="406.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">ESM-2 hidden layer</text>
+<text x="48.0" y="436.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="400" fill="#52514e">Layer 12 wins by 0.003 over the final layer, inside noise. The head matters far more than the depth of the tap.</text>
+</svg>
