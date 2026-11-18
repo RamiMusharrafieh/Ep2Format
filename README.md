@@ -117,12 +117,12 @@ $$
 **MLP head (two hidden layers, 256 and 64 units):**
 
 $$
-h_1 = \operatorname{ReLU}(W_1x + b_1), \qquad
-h_2 = \operatorname{ReLU}(W_2h_1 + b_2), \qquad
+h_1 = \mathrm{ReLU}(W_1x + b_1), \qquad
+h_2 = \mathrm{ReLU}(W_2h_1 + b_2), \qquad
 P(y=1 \mid x) = \sigma(w_3^\top h_2 + b_3)
 $$
 
-Here $\sigma(z)=1/(1+e^{-z})$ and $\operatorname{ReLU}(z)=\max(0,z)$,
+Here $\sigma(z)=1/(1+e^{-z})$ and $\mathrm{ReLU}(z)=\max(0,z)$,
 applied element-wise. The linear head learns a weighted sum of the input features;
 the MLP learns nonlinear combinations through its hidden layers. Both learn only
 the head's weights and biases; the ESM encoder remains frozen.
