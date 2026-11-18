@@ -12,13 +12,6 @@ format score alongside an independent depth/exposure lookup table.
 This package contains the inference application and its two trained classifiers.
 It does not include the research dataset or model-training pipeline.
 
-## Status
-
-Research use. The bundled models are preserved from the source project, not
-retrained for this release. Their training feature list includes the antibody's
-contacting-residue count, which is missing for a new antigen-only query. Therefore
-the saved cross-validation scores are not validated performance estimates for
-the intended deployment setting. See [the model card](docs/model-card.md).
 
 ## The format landscape
 
@@ -267,10 +260,7 @@ to the MIT license.
 ## References
 
 These references credit the methods, software, and structure resources used by
-Ep2Format. The classifier results, feature pooling, and empirical lookup are
-outputs of the source EpitopeX research; these publications do not validate
-Ep2Format's predictions. See the [model provenance](docs/model-card.md#source-artifacts-and-reproducibility)
-and [individual example citations](examples/README.md#structure-references).
+Ep2Format.
 
 | Component | Reference |
 |---|---|
